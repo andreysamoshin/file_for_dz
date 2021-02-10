@@ -11,8 +11,9 @@ void no_branch()
 
 int f()
 {
-	return 0;
+	return 1;
 }
+
 
 //first change
 int main()
