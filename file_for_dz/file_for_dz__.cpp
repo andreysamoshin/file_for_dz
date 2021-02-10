@@ -2,6 +2,11 @@
 #include <iostream>
 // add some info and moreeee
 
+void no_branch()
+{
+	std::cout << "no branch" << std::endl;
+}
+
 
 //first change
 int main()
