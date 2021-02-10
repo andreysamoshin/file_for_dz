@@ -8,6 +8,12 @@ void no_branch()
 }
 
 
+
+int f()
+{
+	return 0;
+}
+
 //first change
 int main()
 {
