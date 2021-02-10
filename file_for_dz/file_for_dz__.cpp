@@ -8,6 +8,7 @@ int main()
 {
 	std::cout << "second change" << std::endl;
 	std::cout << "THE file was changed" << std::endl;
+// third commit (added on the site )
 
 	return 0;
 }
