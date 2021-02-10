@@ -6,6 +6,7 @@
 //first change
 int main()
 {
+	std::cout << "second change" << std::endl;
 	std::cout << "THE file was changed" << std::endl;
 
 	return 0;
