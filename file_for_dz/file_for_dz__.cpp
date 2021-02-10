@@ -16,7 +16,6 @@ int main()
 =======
 // who says im not the master? i mf am!
 >>>>>>> master
-
-// side hustle 2 babyyy
+// side hustle 2 baby
 	return 0;
 }
